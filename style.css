@@ -8,7 +8,7 @@ body{ margin:0; font:normal 75% Arial, Helvetica, sans-serif; } canvas{ display:
     color: white;
     z-index: 9999999999999999;
     font-size: 40px;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Patrick Hand', cursive;
     display: flex;
     text-align: center;
     justify-content: center;
